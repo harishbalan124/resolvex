@@ -1,0 +1,1201 @@
+id,text,channel,sentiment
+SENT-00889,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",phone,positive
+SENT-00606,What are the daily withdrawal limits on standard business checking accounts?,phone,neutral
+SENT-00264,I see fraudulent activity on my account for merchant Urban Retailers. Please block and investigate.,portal,negative
+SENT-01176,The support agent resolved my billing issue in less than five minutes. Very impressed.,email,positive
+SENT-01155,Thank you for the prompt reversal of the disputed charge. Exceptional support!,email,positive
+SENT-00620,Could you re-send the monthly account statement for September in PDF format?,phone,neutral
+SENT-00669,Inquiring about the standard processing time for wire transfers to international banks.,chat,neutral
+SENT-00112,The transaction amount does not match the merchant receipt. I was overcharged by $271.75.,phone,negative
+SENT-00816,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",portal,positive
+SENT-00455,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,email,neutral
+SENT-01113,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",email,positive
+SENT-00767,Please send me the official tax invoices for the first quarter of 2026.,chat,neutral
+SENT-00993,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,phone,positive
+SENT-00942,Thank you for the prompt reversal of the disputed charge. Exceptional support!,email,positive
+SENT-00890,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,email,positive
+SENT-00248,I was charged twice for transaction TXN-517479 on my statement and nobody has refunded me yet.,portal,negative
+SENT-00413,Need instructions on enabling two-factor authentication for my team members.,email,neutral
+SENT-00851,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",chat,positive
+SENT-00011,Hidden fees on my invoice! I was promised a monthly rate of $50 but was billed $790.49.,phone,negative
+SENT-00274,I demand an immediate reversal of this unauthorized transaction at AWS Infrastructure.,phone,negative
+SENT-00037,Your service outage caused significant downtime for our business operations today.,chat,negative
+SENT-00030,Your dispute process is completely opaque. I haven't received an update in three weeks.,chat,negative
+SENT-00922,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",email,positive
+SENT-00338,I see fraudulent activity on my account for merchant Metro Transit. Please block and investigate.,portal,negative
+SENT-00118,Your dispute process is completely opaque. I haven't received an update in three weeks.,portal,negative
+SENT-00187,Your dispute process is completely opaque. I haven't received an update in three weeks.,email,negative
+SENT-00115,Unacceptable duplicate debit of $396.11. This is the second time your billing system made this mistake.,portal,negative
+SENT-00076,Unacceptable duplicate debit of $898.62. This is the second time your billing system made this mistake.,email,negative
+SENT-00503,Could you re-send the monthly account statement for September in PDF format?,portal,neutral
+SENT-00554,How do I update my primary billing address and contact phone number on file?,email,neutral
+SENT-00709,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,chat,neutral
+SENT-00380,My card was charged multiple times in rapid succession while I was traveling abroad.,phone,negative
+SENT-00899,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,portal,positive
+SENT-00428,Confirming receipt of the dispute documentation I uploaded yesterday.,email,neutral
+SENT-00962,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",phone,positive
+SENT-00801,I truly appreciate your representative following up personally to confirm my account security.,phone,positive
+SENT-00725,Confirming receipt of the dispute documentation I uploaded yesterday.,phone,neutral
+SENT-01170,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",phone,positive
+SENT-00414,How do I update my primary billing address and contact phone number on file?,portal,neutral
+SENT-00760,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,chat,neutral
+SENT-00880,Thank you for the prompt reversal of the disputed charge. Exceptional support!,email,positive
+SENT-01024,Thank you for the prompt reversal of the disputed charge. Exceptional support!,chat,positive
+SENT-00566,How do I update my primary billing address and contact phone number on file?,portal,neutral
+SENT-00322,The transaction amount does not match the merchant receipt. I was overcharged by $322.13.,email,negative
+SENT-00244,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,email,negative
+SENT-00939,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",chat,positive
+SENT-00737,Need instructions on enabling two-factor authentication for my team members.,phone,neutral
+SENT-00006,Your dispute process is completely opaque. I haven't received an update in three weeks.,chat,negative
+SENT-00216,Why was my card billed $67.47 when I explicitly canceled my subscription last month?,phone,negative
+SENT-00271,Hidden fees on my invoice! I was promised a monthly rate of $50 but was billed $563.34.,phone,negative
+SENT-00841,Thank you for the prompt reversal of the disputed charge. Exceptional support!,portal,positive
+SENT-00108,I demand an immediate reversal of this unauthorized transaction at Enterprise Office Supplies.,phone,negative
+SENT-00592,Confirming receipt of the dispute documentation I uploaded yesterday.,phone,neutral
+SENT-00860,Thank you for the prompt reversal of the disputed charge. Exceptional support!,portal,positive
+SENT-00388,The transaction amount does not match the merchant receipt. I was overcharged by $435.73.,phone,negative
+SENT-00802,Thank you for the prompt reversal of the disputed charge. Exceptional support!,portal,positive
+SENT-00440,Inquiring about the standard processing time for wire transfers to international banks.,email,neutral
+SENT-00101,Unacceptable duplicate debit of $905.12. This is the second time your billing system made this mistake.,phone,negative
+SENT-00692,How do I update my primary billing address and contact phone number on file?,email,neutral
+SENT-00029,The transaction amount does not match the merchant receipt. I was overcharged by $119.30.,chat,negative
+SENT-00089,Your service outage caused significant downtime for our business operations today.,email,negative
+SENT-00425,Inquiring about the standard processing time for wire transfers to international banks.,phone,neutral
+SENT-00057,My card was charged multiple times in rapid succession while I was traveling abroad.,portal,negative
+SENT-00893,I truly appreciate your representative following up personally to confirm my account security.,chat,positive
+SENT-00372,I demand an immediate reversal of this unauthorized transaction at SaaS Software Corp.,phone,negative
+SENT-00096,Terrible customer service. I waited on hold for 45 minutes and was hung up on regarding my disputed charge.,chat,negative
+SENT-00394,I demand an immediate reversal of this unauthorized transaction at Enterprise Office Supplies.,email,negative
+SENT-00140,The transaction amount does not match the merchant receipt. I was overcharged by $444.86.,portal,negative
+SENT-00623,Need instructions on enabling two-factor authentication for my team members.,portal,neutral
+SENT-01044,Thank you for the prompt reversal of the disputed charge. Exceptional support!,portal,positive
+SENT-00995,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",email,positive
+SENT-00281,My card was charged multiple times in rapid succession while I was traveling abroad.,portal,negative
+SENT-00677,I would like to verify if transaction TXN-613234 has settled or is still in pending status.,phone,neutral
+SENT-00759,I would like to verify if transaction TXN-615929 has settled or is still in pending status.,chat,neutral
+SENT-01017,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,phone,positive
+SENT-00360,Your service outage caused significant downtime for our business operations today.,phone,negative
+SENT-00049,Terrible customer service. I waited on hold for 45 minutes and was hung up on regarding my disputed charge.,portal,negative
+SENT-00530,Inquiring about the standard processing time for wire transfers to international banks.,email,neutral
+SENT-00200,Hidden fees on my invoice! I was promised a monthly rate of $50 but was billed $782.21.,phone,negative
+SENT-00707,Could you re-send the monthly account statement for September in PDF format?,phone,neutral
+SENT-00523,I would like to verify if transaction TXN-415098 has settled or is still in pending status.,email,neutral
+SENT-00952,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",portal,positive
+SENT-01078,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,portal,positive
+SENT-00869,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",portal,positive
+SENT-00866,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",email,positive
+SENT-01146,I truly appreciate your representative following up personally to confirm my account security.,email,positive
+SENT-00462,What are the daily withdrawal limits on standard business checking accounts?,email,neutral
+SENT-00831,The support agent resolved my billing issue in less than five minutes. Very impressed.,chat,positive
+SENT-00800,Could you re-send the monthly account statement for September in PDF format?,email,neutral
+SENT-00393,Unacceptable duplicate debit of $198.54. This is the second time your billing system made this mistake.,phone,negative
+SENT-00954,I truly appreciate your representative following up personally to confirm my account security.,email,positive
+SENT-01181,Thank you for the prompt reversal of the disputed charge. Exceptional support!,portal,positive
+SENT-00659,Please send me the official tax invoices for the first quarter of 2026.,phone,neutral
+SENT-00318,Your service outage caused significant downtime for our business operations today.,chat,negative
+SENT-01089,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",chat,positive
+SENT-00053,Your dispute process is completely opaque. I haven't received an update in three weeks.,email,negative
+SENT-00417,Could you re-send the monthly account statement for September in PDF format?,phone,neutral
+SENT-00113,Terrible customer service. I waited on hold for 45 minutes and was hung up on regarding my disputed charge.,email,negative
+SENT-00525,Confirming receipt of the dispute documentation I uploaded yesterday.,phone,neutral
+SENT-00437,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,chat,neutral
+SENT-00436,Could you re-send the monthly account statement for September in PDF format?,portal,neutral
+SENT-00431,What are the daily withdrawal limits on standard business checking accounts?,chat,neutral
+SENT-00872,Thank you for the prompt reversal of the disputed charge. Exceptional support!,chat,positive
+SENT-01141,I truly appreciate your representative following up personally to confirm my account security.,email,positive
+SENT-00773,Inquiring about the standard processing time for wire transfers to international banks.,email,neutral
+SENT-00005,My card was charged multiple times in rapid succession while I was traveling abroad.,chat,negative
+SENT-00103,Terrible customer service. I waited on hold for 45 minutes and was hung up on regarding my disputed charge.,portal,negative
+SENT-01123,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",email,positive
+SENT-00541,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,phone,neutral
+SENT-00087,Unacceptable duplicate debit of $275.98. This is the second time your billing system made this mistake.,portal,negative
+SENT-00444,Confirming receipt of the dispute documentation I uploaded yesterday.,portal,neutral
+SENT-00680,What are the daily withdrawal limits on standard business checking accounts?,phone,neutral
+SENT-00941,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,email,positive
+SENT-00877,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,email,positive
+SENT-00715,Need instructions on enabling two-factor authentication for my team members.,email,neutral
+SENT-00188,I see fraudulent activity on my account for merchant CloudTech Solutions. Please block and investigate.,portal,negative
+SENT-00004,Terrible customer service. I waited on hold for 45 minutes and was hung up on regarding my disputed charge.,chat,negative
+SENT-00284,The transaction amount does not match the merchant receipt. I was overcharged by $269.42.,portal,negative
+SENT-00817,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,phone,positive
+SENT-00486,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,phone,neutral
+SENT-00616,Could you re-send the monthly account statement for September in PDF format?,portal,neutral
+SENT-00287,Hidden fees on my invoice! I was promised a monthly rate of $50 but was billed $303.37.,portal,negative
+SENT-00642,Please send me the official tax invoices for the first quarter of 2026.,phone,neutral
+SENT-00279,Why was my card billed $184.61 when I explicitly canceled my subscription last month?,portal,negative
+SENT-00421,Could you re-send the monthly account statement for September in PDF format?,phone,neutral
+SENT-00670,Please send me the official tax invoices for the first quarter of 2026.,phone,neutral
+SENT-01152,I truly appreciate your representative following up personally to confirm my account security.,chat,positive
+SENT-00193,My card was charged multiple times in rapid succession while I was traveling abroad.,portal,negative
+SENT-00870,Thank you for the prompt reversal of the disputed charge. Exceptional support!,portal,positive
+SENT-00711,Could you provide a detailed breakdown of the transaction fees on statement TXN-989079?,chat,neutral
+SENT-00997,The support agent resolved my billing issue in less than five minutes. Very impressed.,chat,positive
+SENT-00066,Hidden fees on my invoice! I was promised a monthly rate of $50 but was billed $138.85.,email,negative
+SENT-00236,Unacceptable duplicate debit of $383.93. This is the second time your billing system made this mistake.,email,negative
+SENT-00633,Please send me the official tax invoices for the first quarter of 2026.,chat,neutral
+SENT-00777,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,email,neutral
+SENT-00411,What are the daily withdrawal limits on standard business checking accounts?,chat,neutral
+SENT-00626,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,email,neutral
+SENT-00745,What are the daily withdrawal limits on standard business checking accounts?,phone,neutral
+SENT-00647,Inquiring about the standard processing time for wire transfers to international banks.,chat,neutral
+SENT-00804,I truly appreciate your representative following up personally to confirm my account security.,phone,positive
+SENT-00467,Could you re-send the monthly account statement for September in PDF format?,email,neutral
+SENT-01005,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,chat,positive
+SENT-00146,Your dispute process is completely opaque. I haven't received an update in three weeks.,phone,negative
+SENT-00120,Your dispute process is completely opaque. I haven't received an update in three weeks.,email,negative
+SENT-00713,I would like to verify if transaction TXN-409898 has settled or is still in pending status.,chat,neutral
+SENT-01030,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,phone,positive
+SENT-01050,The support agent resolved my billing issue in less than five minutes. Very impressed.,email,positive
+SENT-00050,I demand an immediate reversal of this unauthorized transaction at AWS Infrastructure.,portal,negative
+SENT-00288,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,chat,negative
+SENT-01002,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,portal,positive
+SENT-01047,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",email,positive
+SENT-01186,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,phone,positive
+SENT-00856,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",portal,positive
+SENT-00608,What are the daily withdrawal limits on standard business checking accounts?,portal,neutral
+SENT-00128,My card was charged multiple times in rapid succession while I was traveling abroad.,chat,negative
+SENT-01161,The support agent resolved my billing issue in less than five minutes. Very impressed.,phone,positive
+SENT-00366,Why was my card billed $89.86 when I explicitly canceled my subscription last month?,phone,negative
+SENT-00546,Could you provide a detailed breakdown of the transaction fees on statement TXN-373441?,portal,neutral
+SENT-01014,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,email,positive
+SENT-00177,Your dispute process is completely opaque. I haven't received an update in three weeks.,portal,negative
+SENT-00067,Terrible customer service. I waited on hold for 45 minutes and was hung up on regarding my disputed charge.,phone,negative
+SENT-00694,I would like to verify if transaction TXN-787326 has settled or is still in pending status.,email,neutral
+SENT-00522,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,chat,neutral
+SENT-00189,I see fraudulent activity on my account for merchant SaaS Software Corp. Please block and investigate.,portal,negative
+SENT-00595,Could you re-send the monthly account statement for September in PDF format?,portal,neutral
+SENT-00697,Could you provide a detailed breakdown of the transaction fees on statement TXN-108454?,email,neutral
+SENT-01100,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,chat,positive
+SENT-00974,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,chat,positive
+SENT-01095,Thank you for the prompt reversal of the disputed charge. Exceptional support!,chat,positive
+SENT-00733,Inquiring about the standard processing time for wire transfers to international banks.,phone,neutral
+SENT-00904,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",email,positive
+SENT-00593,I would like to verify if transaction TXN-112940 has settled or is still in pending status.,portal,neutral
+SENT-00710,Confirming receipt of the dispute documentation I uploaded yesterday.,phone,neutral
+SENT-00838,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",phone,positive
+SENT-00176,I demand an immediate reversal of this unauthorized transaction at Fintech Payment Gateway.,phone,negative
+SENT-00881,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,portal,positive
+SENT-00179,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,phone,negative
+SENT-00490,I would like to verify if transaction TXN-836038 has settled or is still in pending status.,portal,neutral
+SENT-00135,I see fraudulent activity on my account for merchant Prime Stream Media. Please block and investigate.,chat,negative
+SENT-00218,I demand an immediate reversal of this unauthorized transaction at Global Air Lines.,chat,negative
+SENT-00496,What are the daily withdrawal limits on standard business checking accounts?,portal,neutral
+SENT-00944,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",phone,positive
+SENT-00549,Need instructions on enabling two-factor authentication for my team members.,phone,neutral
+SENT-01177,Thank you for the prompt reversal of the disputed charge. Exceptional support!,phone,positive
+SENT-00499,Need instructions on enabling two-factor authentication for my team members.,portal,neutral
+SENT-00919,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,portal,positive
+SENT-00601,Need instructions on enabling two-factor authentication for my team members.,phone,neutral
+SENT-00892,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",chat,positive
+SENT-00813,The support agent resolved my billing issue in less than five minutes. Very impressed.,phone,positive
+SENT-01084,The support agent resolved my billing issue in less than five minutes. Very impressed.,chat,positive
+SENT-00328,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,chat,negative
+SENT-00571,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,phone,neutral
+SENT-01016,Thank you for the prompt reversal of the disputed charge. Exceptional support!,chat,positive
+SENT-00364,Why was my card billed $500.52 when I explicitly canceled my subscription last month?,portal,negative
+SENT-00875,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,email,positive
+SENT-00419,Inquiring about the standard processing time for wire transfers to international banks.,portal,neutral
+SENT-00749,I would like to verify if transaction TXN-172274 has settled or is still in pending status.,phone,neutral
+SENT-00149,Hidden fees on my invoice! I was promised a monthly rate of $50 but was billed $239.70.,portal,negative
+SENT-00384,Terrible customer service. I waited on hold for 45 minutes and was hung up on regarding my disputed charge.,phone,negative
+SENT-00250,I was charged twice for transaction TXN-925013 on my statement and nobody has refunded me yet.,chat,negative
+SENT-01133,I truly appreciate your representative following up personally to confirm my account security.,portal,positive
+SENT-00977,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,chat,positive
+SENT-00473,Inquiring about the standard processing time for wire transfers to international banks.,portal,neutral
+SENT-00824,I truly appreciate your representative following up personally to confirm my account security.,chat,positive
+SENT-00153,Why was my card billed $439.25 when I explicitly canceled my subscription last month?,phone,negative
+SENT-00180,I was charged twice for transaction TXN-195763 on my statement and nobody has refunded me yet.,email,negative
+SENT-00505,How do I update my primary billing address and contact phone number on file?,phone,neutral
+SENT-00170,Your service outage caused significant downtime for our business operations today.,chat,negative
+SENT-00920,Thank you for the prompt reversal of the disputed charge. Exceptional support!,chat,positive
+SENT-00315,Why was my card billed $873.27 when I explicitly canceled my subscription last month?,portal,negative
+SENT-01130,I truly appreciate your representative following up personally to confirm my account security.,portal,positive
+SENT-00774,Please send me the official tax invoices for the first quarter of 2026.,chat,neutral
+SENT-00574,I would like to verify if transaction TXN-180674 has settled or is still in pending status.,chat,neutral
+SENT-00741,Confirming receipt of the dispute documentation I uploaded yesterday.,email,neutral
+SENT-00317,Why was my card billed $536.70 when I explicitly canceled my subscription last month?,phone,negative
+SENT-01157,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,chat,positive
+SENT-00307,Why was my card billed $84.37 when I explicitly canceled my subscription last month?,portal,negative
+SENT-00619,Inquiring about the standard processing time for wire transfers to international banks.,email,neutral
+SENT-01110,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",chat,positive
+SENT-00603,What are the daily withdrawal limits on standard business checking accounts?,portal,neutral
+SENT-00681,Could you re-send the monthly account statement for September in PDF format?,portal,neutral
+SENT-00268,I see fraudulent activity on my account for merchant SaaS Software Corp. Please block and investigate.,chat,negative
+SENT-00511,Could you provide a detailed breakdown of the transaction fees on statement TXN-412856?,portal,neutral
+SENT-00535,Could you provide a detailed breakdown of the transaction fees on statement TXN-381502?,email,neutral
+SENT-00758,How do I update my primary billing address and contact phone number on file?,chat,neutral
+SENT-00289,I demand an immediate reversal of this unauthorized transaction at SaaS Software Corp.,email,negative
+SENT-00506,I would like to verify if transaction TXN-288724 has settled or is still in pending status.,portal,neutral
+SENT-00090,Unacceptable duplicate debit of $421.32. This is the second time your billing system made this mistake.,portal,negative
+SENT-00168,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,email,negative
+SENT-00965,The support agent resolved my billing issue in less than five minutes. Very impressed.,portal,positive
+SENT-00038,Hidden fees on my invoice! I was promised a monthly rate of $50 but was billed $697.49.,phone,negative
+SENT-01151,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",phone,positive
+SENT-00301,My card was charged multiple times in rapid succession while I was traveling abroad.,chat,negative
+SENT-00955,The support agent resolved my billing issue in less than five minutes. Very impressed.,portal,positive
+SENT-00304,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,phone,negative
+SENT-00476,Inquiring about the standard processing time for wire transfers to international banks.,phone,neutral
+SENT-00143,Why was my card billed $244.54 when I explicitly canceled my subscription last month?,phone,negative
+SENT-00527,I would like to verify if transaction TXN-528090 has settled or is still in pending status.,phone,neutral
+SENT-00859,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",chat,positive
+SENT-01118,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,chat,positive
+SENT-00415,Please send me the official tax invoices for the first quarter of 2026.,phone,neutral
+SENT-00326,Unacceptable duplicate debit of $804.54. This is the second time your billing system made this mistake.,email,negative
+SENT-00832,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",email,positive
+SENT-00676,Please send me the official tax invoices for the first quarter of 2026.,chat,neutral
+SENT-00246,My card was charged multiple times in rapid succession while I was traveling abroad.,chat,negative
+SENT-00638,Need instructions on enabling two-factor authentication for my team members.,portal,neutral
+SENT-00334,I demand an immediate reversal of this unauthorized transaction at Prime Stream Media.,chat,negative
+SENT-00784,Need instructions on enabling two-factor authentication for my team members.,email,neutral
+SENT-00747,How do I update my primary billing address and contact phone number on file?,chat,neutral
+SENT-01165,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",email,positive
+SENT-00122,Your dispute process is completely opaque. I haven't received an update in three weeks.,email,negative
+SENT-01149,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",phone,positive
+SENT-01093,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",chat,positive
+SENT-01145,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,phone,positive
+SENT-00479,Confirming receipt of the dispute documentation I uploaded yesterday.,portal,neutral
+SENT-00679,How do I update my primary billing address and contact phone number on file?,phone,neutral
+SENT-00003,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,chat,negative
+SENT-00678,I would like to verify if transaction TXN-493396 has settled or is still in pending status.,email,neutral
+SENT-00757,What are the daily withdrawal limits on standard business checking accounts?,phone,neutral
+SENT-01038,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,phone,positive
+SENT-00834,The support agent resolved my billing issue in less than five minutes. Very impressed.,chat,positive
+SENT-00130,Terrible customer service. I waited on hold for 45 minutes and was hung up on regarding my disputed charge.,chat,negative
+SENT-00002,Terrible customer service. I waited on hold for 45 minutes and was hung up on regarding my disputed charge.,email,negative
+SENT-00718,What are the daily withdrawal limits on standard business checking accounts?,portal,neutral
+SENT-00492,Could you re-send the monthly account statement for September in PDF format?,portal,neutral
+SENT-00430,Confirming receipt of the dispute documentation I uploaded yesterday.,chat,neutral
+SENT-01031,Thank you for the prompt reversal of the disputed charge. Exceptional support!,chat,positive
+SENT-00148,Hidden fees on my invoice! I was promised a monthly rate of $50 but was billed $95.05.,portal,negative
+SENT-00229,The transaction amount does not match the merchant receipt. I was overcharged by $859.68.,phone,negative
+SENT-00446,Confirming receipt of the dispute documentation I uploaded yesterday.,portal,neutral
+SENT-00830,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,portal,positive
+SENT-00858,The support agent resolved my billing issue in less than five minutes. Very impressed.,chat,positive
+SENT-00027,I see fraudulent activity on my account for merchant Urban Retailers. Please block and investigate.,phone,negative
+SENT-00660,Please send me the official tax invoices for the first quarter of 2026.,chat,neutral
+SENT-00651,I would like to verify if transaction TXN-294776 has settled or is still in pending status.,chat,neutral
+SENT-00349,I see fraudulent activity on my account for merchant Metro Transit. Please block and investigate.,portal,negative
+SENT-00077,Why was my card billed $531.61 when I explicitly canceled my subscription last month?,chat,negative
+SENT-00945,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",chat,positive
+SENT-00569,What are the daily withdrawal limits on standard business checking accounts?,email,neutral
+SENT-01109,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,portal,positive
+SENT-00729,Need instructions on enabling two-factor authentication for my team members.,email,neutral
+SENT-00194,Unacceptable duplicate debit of $942.76. This is the second time your billing system made this mistake.,portal,negative
+SENT-00788,I would like to verify if transaction TXN-281201 has settled or is still in pending status.,chat,neutral
+SENT-00543,Need instructions on enabling two-factor authentication for my team members.,phone,neutral
+SENT-00956,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",email,positive
+SENT-00735,I would like to verify if transaction TXN-385192 has settled or is still in pending status.,email,neutral
+SENT-01107,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",phone,positive
+SENT-01004,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",phone,positive
+SENT-01121,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",chat,positive
+SENT-01119,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,portal,positive
+SENT-00296,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,email,negative
+SENT-00064,Why was my card billed $889.91 when I explicitly canceled my subscription last month?,portal,negative
+SENT-00780,How do I update my primary billing address and contact phone number on file?,chat,neutral
+SENT-01026,I truly appreciate your representative following up personally to confirm my account security.,phone,positive
+SENT-00907,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,portal,positive
+SENT-00354,Terrible customer service. I waited on hold for 45 minutes and was hung up on regarding my disputed charge.,phone,negative
+SENT-00299,Terrible customer service. I waited on hold for 45 minutes and was hung up on regarding my disputed charge.,email,negative
+SENT-00368,Why was my card billed $54.60 when I explicitly canceled my subscription last month?,portal,negative
+SENT-00723,I would like to verify if transaction TXN-186431 has settled or is still in pending status.,chat,neutral
+SENT-00901,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,portal,positive
+SENT-00996,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,chat,positive
+SENT-00231,Your service outage caused significant downtime for our business operations today.,chat,negative
+SENT-00166,Hidden fees on my invoice! I was promised a monthly rate of $50 but was billed $404.12.,chat,negative
+SENT-00371,I was charged twice for transaction TXN-249715 on my statement and nobody has refunded me yet.,email,negative
+SENT-00451,Need instructions on enabling two-factor authentication for my team members.,phone,neutral
+SENT-00448,Confirming receipt of the dispute documentation I uploaded yesterday.,portal,neutral
+SENT-01053,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,chat,positive
+SENT-01196,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,phone,positive
+SENT-00627,Inquiring about the standard processing time for wire transfers to international banks.,phone,neutral
+SENT-00786,Could you provide a detailed breakdown of the transaction fees on statement TXN-276149?,portal,neutral
+SENT-00812,Thank you for the prompt reversal of the disputed charge. Exceptional support!,chat,positive
+SENT-00047,I see fraudulent activity on my account for merchant CloudTech Solutions. Please block and investigate.,email,negative
+SENT-00341,I was charged twice for transaction TXN-434165 on my statement and nobody has refunded me yet.,chat,negative
+SENT-00238,The transaction amount does not match the merchant receipt. I was overcharged by $116.30.,portal,negative
+SENT-00772,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,email,neutral
+SENT-00827,The support agent resolved my billing issue in less than five minutes. Very impressed.,email,positive
+SENT-00028,Hidden fees on my invoice! I was promised a monthly rate of $50 but was billed $651.06.,phone,negative
+SENT-01120,The support agent resolved my billing issue in less than five minutes. Very impressed.,portal,positive
+SENT-00151,I see fraudulent activity on my account for merchant Prime Stream Media. Please block and investigate.,phone,negative
+SENT-00640,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,email,neutral
+SENT-00086,I was charged twice for transaction TXN-792094 on my statement and nobody has refunded me yet.,phone,negative
+SENT-00526,I would like to verify if transaction TXN-923975 has settled or is still in pending status.,phone,neutral
+SENT-01169,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,email,positive
+SENT-00826,Thank you for the prompt reversal of the disputed charge. Exceptional support!,chat,positive
+SENT-00518,Could you provide a detailed breakdown of the transaction fees on statement TXN-521805?,chat,neutral
+SENT-00226,I was charged twice for transaction TXN-693419 on my statement and nobody has refunded me yet.,portal,negative
+SENT-00576,Confirming receipt of the dispute documentation I uploaded yesterday.,chat,neutral
+SENT-00663,Confirming receipt of the dispute documentation I uploaded yesterday.,portal,neutral
+SENT-00026,The transaction amount does not match the merchant receipt. I was overcharged by $755.59.,email,negative
+SENT-00696,Inquiring about the standard processing time for wire transfers to international banks.,portal,neutral
+SENT-00910,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,chat,positive
+SENT-00489,Need instructions on enabling two-factor authentication for my team members.,phone,neutral
+SENT-00433,Confirming receipt of the dispute documentation I uploaded yesterday.,portal,neutral
+SENT-00021,The transaction amount does not match the merchant receipt. I was overcharged by $384.92.,chat,negative
+SENT-00604,Could you re-send the monthly account statement for September in PDF format?,phone,neutral
+SENT-00276,I see fraudulent activity on my account for merchant Prime Stream Media. Please block and investigate.,email,negative
+SENT-00266,I see fraudulent activity on my account for merchant Global Air Lines. Please block and investigate.,phone,negative
+SENT-00963,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,phone,positive
+SENT-00355,I demand an immediate reversal of this unauthorized transaction at SaaS Software Corp.,chat,negative
+SENT-00234,My card was charged multiple times in rapid succession while I was traveling abroad.,email,negative
+SENT-00232,I demand an immediate reversal of this unauthorized transaction at SaaS Software Corp.,phone,negative
+SENT-00693,I would like to verify if transaction TXN-755993 has settled or is still in pending status.,chat,neutral
+SENT-01077,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,chat,positive
+SENT-00529,Please send me the official tax invoices for the first quarter of 2026.,phone,neutral
+SENT-00671,Confirming receipt of the dispute documentation I uploaded yesterday.,chat,neutral
+SENT-00625,What are the daily withdrawal limits on standard business checking accounts?,email,neutral
+SENT-00275,Hidden fees on my invoice! I was promised a monthly rate of $50 but was billed $122.42.,chat,negative
+SENT-00305,The transaction amount does not match the merchant receipt. I was overcharged by $156.15.,portal,negative
+SENT-00293,I was charged twice for transaction TXN-582087 on my statement and nobody has refunded me yet.,portal,negative
+SENT-00401,Please send me the official tax invoices for the first quarter of 2026.,phone,neutral
+SENT-00994,The support agent resolved my billing issue in less than five minutes. Very impressed.,portal,positive
+SENT-01179,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",phone,positive
+SENT-00761,Confirming receipt of the dispute documentation I uploaded yesterday.,portal,neutral
+SENT-00771,Please send me the official tax invoices for the first quarter of 2026.,portal,neutral
+SENT-00894,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,email,positive
+SENT-00208,Unacceptable duplicate debit of $426.69. This is the second time your billing system made this mistake.,portal,negative
+SENT-00463,Inquiring about the standard processing time for wire transfers to international banks.,chat,neutral
+SENT-00127,I see fraudulent activity on my account for merchant Urban Retailers. Please block and investigate.,email,negative
+SENT-00235,I demand an immediate reversal of this unauthorized transaction at Global Air Lines.,phone,negative
+SENT-00167,Hidden fees on my invoice! I was promised a monthly rate of $50 but was billed $436.23.,phone,negative
+SENT-01086,Thank you for the prompt reversal of the disputed charge. Exceptional support!,email,positive
+SENT-00833,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,phone,positive
+SENT-00602,Could you provide a detailed breakdown of the transaction fees on statement TXN-514913?,portal,neutral
+SENT-00225,My card was charged multiple times in rapid succession while I was traveling abroad.,phone,negative
+SENT-00520,Confirming receipt of the dispute documentation I uploaded yesterday.,phone,neutral
+SENT-00034,Your service outage caused significant downtime for our business operations today.,email,negative
+SENT-00105,I see fraudulent activity on my account for merchant CloudTech Solutions. Please block and investigate.,email,negative
+SENT-00884,I truly appreciate your representative following up personally to confirm my account security.,email,positive
+SENT-01174,I truly appreciate your representative following up personally to confirm my account security.,phone,positive
+SENT-00561,Inquiring about the standard processing time for wire transfers to international banks.,chat,neutral
+SENT-00422,Confirming receipt of the dispute documentation I uploaded yesterday.,portal,neutral
+SENT-00607,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,chat,neutral
+SENT-00008,Why was my card billed $101.72 when I explicitly canceled my subscription last month?,phone,negative
+SENT-01039,I truly appreciate your representative following up personally to confirm my account security.,portal,positive
+SENT-01166,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,chat,positive
+SENT-00932,I truly appreciate your representative following up personally to confirm my account security.,phone,positive
+SENT-00822,I truly appreciate your representative following up personally to confirm my account security.,email,positive
+SENT-00084,I was charged twice for transaction TXN-593554 on my statement and nobody has refunded me yet.,phone,negative
+SENT-00471,Could you re-send the monthly account statement for September in PDF format?,phone,neutral
+SENT-00243,I see fraudulent activity on my account for merchant Enterprise Office Supplies. Please block and investigate.,portal,negative
+SENT-00252,Terrible customer service. I waited on hold for 45 minutes and was hung up on regarding my disputed charge.,email,negative
+SENT-01062,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",chat,positive
+SENT-00931,Thank you for the prompt reversal of the disputed charge. Exceptional support!,chat,positive
+SENT-00876,I truly appreciate your representative following up personally to confirm my account security.,portal,positive
+SENT-00668,Could you re-send the monthly account statement for September in PDF format?,portal,neutral
+SENT-00684,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,phone,neutral
+SENT-00241,The transaction amount does not match the merchant receipt. I was overcharged by $124.09.,email,negative
+SENT-00717,Inquiring about the standard processing time for wire transfers to international banks.,portal,neutral
+SENT-00258,Why was my card billed $570.08 when I explicitly canceled my subscription last month?,chat,negative
+SENT-00964,The support agent resolved my billing issue in less than five minutes. Very impressed.,chat,positive
+SENT-00843,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,portal,positive
+SENT-00609,What are the daily withdrawal limits on standard business checking accounts?,chat,neutral
+SENT-00630,Need instructions on enabling two-factor authentication for my team members.,phone,neutral
+SENT-00754,Please send me the official tax invoices for the first quarter of 2026.,chat,neutral
+SENT-01190,I truly appreciate your representative following up personally to confirm my account security.,phone,positive
+SENT-01198,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,email,positive
+SENT-01104,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,email,positive
+SENT-00400,The transaction amount does not match the merchant receipt. I was overcharged by $285.84.,portal,negative
+SENT-00973,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",phone,positive
+SENT-00119,I see fraudulent activity on my account for merchant Enterprise Office Supplies. Please block and investigate.,chat,negative
+SENT-00940,The support agent resolved my billing issue in less than five minutes. Very impressed.,portal,positive
+SENT-00967,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,email,positive
+SENT-00311,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,portal,negative
+SENT-00137,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,portal,negative
+SENT-00316,Why was my card billed $574.02 when I explicitly canceled my subscription last month?,email,negative
+SENT-00685,Confirming receipt of the dispute documentation I uploaded yesterday.,portal,neutral
+SENT-01035,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",chat,positive
+SENT-00792,Could you provide a detailed breakdown of the transaction fees on statement TXN-191982?,portal,neutral
+SENT-00429,Inquiring about the standard processing time for wire transfers to international banks.,portal,neutral
+SENT-01097,Thank you for the prompt reversal of the disputed charge. Exceptional support!,phone,positive
+SENT-00598,Inquiring about the standard processing time for wire transfers to international banks.,portal,neutral
+SENT-00687,How do I update my primary billing address and contact phone number on file?,email,neutral
+SENT-01115,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",email,positive
+SENT-01048,The support agent resolved my billing issue in less than five minutes. Very impressed.,portal,positive
+SENT-01055,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,email,positive
+SENT-00379,Unacceptable duplicate debit of $812.39. This is the second time your billing system made this mistake.,chat,negative
+SENT-00755,Inquiring about the standard processing time for wire transfers to international banks.,email,neutral
+SENT-00508,I would like to verify if transaction TXN-184148 has settled or is still in pending status.,chat,neutral
+SENT-00847,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,phone,positive
+SENT-00156,Terrible customer service. I waited on hold for 45 minutes and was hung up on regarding my disputed charge.,phone,negative
+SENT-01143,Thank you for the prompt reversal of the disputed charge. Exceptional support!,email,positive
+SENT-00212,Why was my card billed $687.00 when I explicitly canceled my subscription last month?,email,negative
+SENT-01147,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,phone,positive
+SENT-00646,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,email,neutral
+SENT-00618,How do I update my primary billing address and contact phone number on file?,phone,neutral
+SENT-01057,The support agent resolved my billing issue in less than five minutes. Very impressed.,email,positive
+SENT-00439,Confirming receipt of the dispute documentation I uploaded yesterday.,portal,neutral
+SENT-00435,What are the daily withdrawal limits on standard business checking accounts?,portal,neutral
+SENT-00734,How do I update my primary billing address and contact phone number on file?,phone,neutral
+SENT-00061,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,phone,negative
+SENT-00921,I truly appreciate your representative following up personally to confirm my account security.,portal,positive
+SENT-01052,The support agent resolved my billing issue in less than five minutes. Very impressed.,chat,positive
+SENT-00286,Why was my card billed $118.68 when I explicitly canceled my subscription last month?,portal,negative
+SENT-00986,The support agent resolved my billing issue in less than five minutes. Very impressed.,email,positive
+SENT-00971,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,chat,positive
+SENT-01126,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,portal,positive
+SENT-00828,Thank you for the prompt reversal of the disputed charge. Exceptional support!,portal,positive
+SENT-00336,My card was charged multiple times in rapid succession while I was traveling abroad.,phone,negative
+SENT-00075,I demand an immediate reversal of this unauthorized transaction at Global Air Lines.,email,negative
+SENT-00782,How do I update my primary billing address and contact phone number on file?,phone,neutral
+SENT-00221,The transaction amount does not match the merchant receipt. I was overcharged by $162.71.,phone,negative
+SENT-00070,Unacceptable duplicate debit of $709.16. This is the second time your billing system made this mistake.,phone,negative
+SENT-00613,Need instructions on enabling two-factor authentication for my team members.,chat,neutral
+SENT-00362,Unacceptable duplicate debit of $359.10. This is the second time your billing system made this mistake.,portal,negative
+SENT-01125,Thank you for the prompt reversal of the disputed charge. Exceptional support!,portal,positive
+SENT-00688,How do I update my primary billing address and contact phone number on file?,portal,neutral
+SENT-00730,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,email,neutral
+SENT-00442,Could you provide a detailed breakdown of the transaction fees on statement TXN-562462?,portal,neutral
+SENT-01075,The support agent resolved my billing issue in less than five minutes. Very impressed.,email,positive
+SENT-00927,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,portal,positive
+SENT-00789,Inquiring about the standard processing time for wire transfers to international banks.,portal,neutral
+SENT-00458,Confirming receipt of the dispute documentation I uploaded yesterday.,chat,neutral
+SENT-00298,Hidden fees on my invoice! I was promised a monthly rate of $50 but was billed $385.04.,phone,negative
+SENT-00478,Could you re-send the monthly account statement for September in PDF format?,portal,neutral
+SENT-00637,Could you provide a detailed breakdown of the transaction fees on statement TXN-873207?,chat,neutral
+SENT-00106,I see fraudulent activity on my account for merchant Enterprise Office Supplies. Please block and investigate.,portal,negative
+SENT-00068,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,phone,negative
+SENT-00768,Could you re-send the monthly account statement for September in PDF format?,email,neutral
+SENT-00230,Your dispute process is completely opaque. I haven't received an update in three weeks.,email,negative
+SENT-00169,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,chat,negative
+SENT-01027,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",chat,positive
+SENT-00969,The support agent resolved my billing issue in less than five minutes. Very impressed.,portal,positive
+SENT-00219,Your dispute process is completely opaque. I haven't received an update in three weeks.,phone,negative
+SENT-00079,Terrible customer service. I waited on hold for 45 minutes and was hung up on regarding my disputed charge.,phone,negative
+SENT-00294,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,phone,negative
+SENT-00650,Could you re-send the monthly account statement for September in PDF format?,portal,neutral
+SENT-00791,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,portal,neutral
+SENT-00117,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,portal,negative
+SENT-01117,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",chat,positive
+SENT-00494,Could you re-send the monthly account statement for September in PDF format?,chat,neutral
+SENT-00447,What are the daily withdrawal limits on standard business checking accounts?,phone,neutral
+SENT-00314,Terrible customer service. I waited on hold for 45 minutes and was hung up on regarding my disputed charge.,chat,negative
+SENT-00348,The transaction amount does not match the merchant receipt. I was overcharged by $552.67.,phone,negative
+SENT-00267,Your dispute process is completely opaque. I haven't received an update in three weeks.,phone,negative
+SENT-01101,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,phone,positive
+SENT-01054,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,portal,positive
+SENT-01015,The support agent resolved my billing issue in less than five minutes. Very impressed.,chat,positive
+SENT-01063,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,phone,positive
+SENT-00337,Unacceptable duplicate debit of $164.89. This is the second time your billing system made this mistake.,chat,negative
+SENT-00509,What are the daily withdrawal limits on standard business checking accounts?,portal,neutral
+SENT-00460,Please send me the official tax invoices for the first quarter of 2026.,chat,neutral
+SENT-00900,The support agent resolved my billing issue in less than five minutes. Very impressed.,phone,positive
+SENT-00078,I was charged twice for transaction TXN-423232 on my statement and nobody has refunded me yet.,phone,negative
+SENT-00867,The support agent resolved my billing issue in less than five minutes. Very impressed.,phone,positive
+SENT-00144,Your dispute process is completely opaque. I haven't received an update in three weeks.,portal,negative
+SENT-00285,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,email,negative
+SENT-00484,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,chat,neutral
+SENT-00946,Thank you for the prompt reversal of the disputed charge. Exceptional support!,email,positive
+SENT-00418,Confirming receipt of the dispute documentation I uploaded yesterday.,portal,neutral
+SENT-00456,What are the daily withdrawal limits on standard business checking accounts?,portal,neutral
+SENT-00199,Your service outage caused significant downtime for our business operations today.,phone,negative
+SENT-00897,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,phone,positive
+SENT-00132,Your dispute process is completely opaque. I haven't received an update in three weeks.,chat,negative
+SENT-00501,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,portal,neutral
+SENT-00032,I demand an immediate reversal of this unauthorized transaction at Enterprise Office Supplies.,email,negative
+SENT-00416,Could you provide a detailed breakdown of the transaction fees on statement TXN-152995?,portal,neutral
+SENT-00765,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,portal,neutral
+SENT-00888,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,portal,positive
+SENT-00121,I see fraudulent activity on my account for merchant Global Air Lines. Please block and investigate.,chat,negative
+SENT-00155,My card was charged multiple times in rapid succession while I was traveling abroad.,chat,negative
+SENT-00321,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,portal,negative
+SENT-00182,Your dispute process is completely opaque. I haven't received an update in three weeks.,chat,negative
+SENT-00181,The transaction amount does not match the merchant receipt. I was overcharged by $266.99.,chat,negative
+SENT-00351,Unacceptable duplicate debit of $523.72. This is the second time your billing system made this mistake.,email,negative
+SENT-01183,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",portal,positive
+SENT-00937,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",chat,positive
+SENT-00656,Confirming receipt of the dispute documentation I uploaded yesterday.,portal,neutral
+SENT-00382,I demand an immediate reversal of this unauthorized transaction at FastDelivery Logistics.,phone,negative
+SENT-00202,Your dispute process is completely opaque. I haven't received an update in three weeks.,portal,negative
+SENT-00251,Unacceptable duplicate debit of $730.42. This is the second time your billing system made this mistake.,chat,negative
+SENT-01200,The support agent resolved my billing issue in less than five minutes. Very impressed.,phone,positive
+SENT-00560,Confirming receipt of the dispute documentation I uploaded yesterday.,portal,neutral
+SENT-00988,I truly appreciate your representative following up personally to confirm my account security.,phone,positive
+SENT-00887,The support agent resolved my billing issue in less than five minutes. Very impressed.,chat,positive
+SENT-00695,Could you provide a detailed breakdown of the transaction fees on statement TXN-323788?,email,neutral
+SENT-00469,I would like to verify if transaction TXN-926236 has settled or is still in pending status.,chat,neutral
+SENT-00513,Need instructions on enabling two-factor authentication for my team members.,phone,neutral
+SENT-00958,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,email,positive
+SENT-00191,Hidden fees on my invoice! I was promised a monthly rate of $50 but was billed $882.37.,portal,negative
+SENT-00091,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,chat,negative
+SENT-00886,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,portal,positive
+SENT-00324,Why was my card billed $183.55 when I explicitly canceled my subscription last month?,phone,negative
+SENT-01160,The support agent resolved my billing issue in less than five minutes. Very impressed.,phone,positive
+SENT-00521,Could you re-send the monthly account statement for September in PDF format?,chat,neutral
+SENT-00390,I demand an immediate reversal of this unauthorized transaction at CloudTech Solutions.,email,negative
+SENT-00764,I would like to verify if transaction TXN-794622 has settled or is still in pending status.,chat,neutral
+SENT-00396,I demand an immediate reversal of this unauthorized transaction at Prime Stream Media.,phone,negative
+SENT-00300,Hidden fees on my invoice! I was promised a monthly rate of $50 but was billed $196.30.,phone,negative
+SENT-01154,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,chat,positive
+SENT-01138,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",portal,positive
+SENT-01102,The support agent resolved my billing issue in less than five minutes. Very impressed.,portal,positive
+SENT-01132,The support agent resolved my billing issue in less than five minutes. Very impressed.,portal,positive
+SENT-00806,I truly appreciate your representative following up personally to confirm my account security.,phone,positive
+SENT-00819,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,chat,positive
+SENT-00009,Why was my card billed $262.33 when I explicitly canceled my subscription last month?,portal,negative
+SENT-01033,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,phone,positive
+SENT-00055,Your dispute process is completely opaque. I haven't received an update in three weeks.,portal,negative
+SENT-00278,I demand an immediate reversal of this unauthorized transaction at Fintech Payment Gateway.,phone,negative
+SENT-00206,The transaction amount does not match the merchant receipt. I was overcharged by $782.40.,portal,negative
+SENT-00291,I see fraudulent activity on my account for merchant Enterprise Office Supplies. Please block and investigate.,phone,negative
+SENT-00915,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,phone,positive
+SENT-00175,I see fraudulent activity on my account for merchant FastDelivery Logistics. Please block and investigate.,phone,negative
+SENT-00262,Unacceptable duplicate debit of $316.17. This is the second time your billing system made this mistake.,email,negative
+SENT-00818,I truly appreciate your representative following up personally to confirm my account security.,chat,positive
+SENT-00540,I would like to verify if transaction TXN-350956 has settled or is still in pending status.,phone,neutral
+SENT-01056,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,email,positive
+SENT-01080,I truly appreciate your representative following up personally to confirm my account security.,phone,positive
+SENT-00145,Why was my card billed $477.18 when I explicitly canceled my subscription last month?,chat,negative
+SENT-01116,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,portal,positive
+SENT-00265,Unacceptable duplicate debit of $671.16. This is the second time your billing system made this mistake.,chat,negative
+SENT-00821,Thank you for the prompt reversal of the disputed charge. Exceptional support!,phone,positive
+SENT-00209,I was charged twice for transaction TXN-857537 on my statement and nobody has refunded me yet.,email,negative
+SENT-00217,I see fraudulent activity on my account for merchant Global Air Lines. Please block and investigate.,chat,negative
+SENT-01058,The support agent resolved my billing issue in less than five minutes. Very impressed.,email,positive
+SENT-00215,Your dispute process is completely opaque. I haven't received an update in three weeks.,email,negative
+SENT-00340,Terrible customer service. I waited on hold for 45 minutes and was hung up on regarding my disputed charge.,chat,negative
+SENT-00024,Why was my card billed $947.50 when I explicitly canceled my subscription last month?,portal,negative
+SENT-00483,What are the daily withdrawal limits on standard business checking accounts?,email,neutral
+SENT-01001,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",email,positive
+SENT-00580,What are the daily withdrawal limits on standard business checking accounts?,portal,neutral
+SENT-00823,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",email,positive
+SENT-00352,I see fraudulent activity on my account for merchant Global Air Lines. Please block and investigate.,phone,negative
+SENT-01076,I truly appreciate your representative following up personally to confirm my account security.,portal,positive
+SENT-00295,Unacceptable duplicate debit of $34.50. This is the second time your billing system made this mistake.,chat,negative
+SENT-01092,I truly appreciate your representative following up personally to confirm my account security.,chat,positive
+SENT-00935,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,phone,positive
+SENT-01140,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,email,positive
+SENT-00589,Inquiring about the standard processing time for wire transfers to international banks.,portal,neutral
+SENT-00612,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,portal,neutral
+SENT-00953,I truly appreciate your representative following up personally to confirm my account security.,phone,positive
+SENT-00383,Hidden fees on my invoice! I was promised a monthly rate of $50 but was billed $128.47.,chat,negative
+SENT-00205,My card was charged multiple times in rapid succession while I was traveling abroad.,portal,negative
+SENT-00240,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,phone,negative
+SENT-01041,I truly appreciate your representative following up personally to confirm my account security.,chat,positive
+SENT-01066,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,email,positive
+SENT-01012,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,phone,positive
+SENT-00453,How do I update my primary billing address and contact phone number on file?,portal,neutral
+SENT-00359,Why was my card billed $496.88 when I explicitly canceled my subscription last month?,portal,negative
+SENT-00174,The transaction amount does not match the merchant receipt. I was overcharged by $878.86.,chat,negative
+SENT-00644,Could you re-send the monthly account statement for September in PDF format?,email,neutral
+SENT-00025,Unacceptable duplicate debit of $59.05. This is the second time your billing system made this mistake.,chat,negative
+SENT-00353,Your service outage caused significant downtime for our business operations today.,phone,negative
+SENT-00842,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",email,positive
+SENT-01197,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",email,positive
+SENT-00653,Inquiring about the standard processing time for wire transfers to international banks.,portal,neutral
+SENT-00375,Hidden fees on my invoice! I was promised a monthly rate of $50 but was billed $387.16.,chat,negative
+SENT-00434,Could you re-send the monthly account statement for September in PDF format?,email,neutral
+SENT-00424,Could you re-send the monthly account statement for September in PDF format?,email,neutral
+SENT-00951,I truly appreciate your representative following up personally to confirm my account security.,phone,positive
+SENT-00926,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",chat,positive
+SENT-00629,What are the daily withdrawal limits on standard business checking accounts?,portal,neutral
+SENT-00721,Could you provide a detailed breakdown of the transaction fees on statement TXN-927630?,phone,neutral
+SENT-00722,Confirming receipt of the dispute documentation I uploaded yesterday.,portal,neutral
+SENT-00776,I would like to verify if transaction TXN-638401 has settled or is still in pending status.,phone,neutral
+SENT-01007,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",chat,positive
+SENT-00938,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,chat,positive
+SENT-00253,Your service outage caused significant downtime for our business operations today.,phone,negative
+SENT-01164,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",email,positive
+SENT-00575,Could you re-send the monthly account statement for September in PDF format?,portal,neutral
+SENT-00201,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,chat,negative
+SENT-00648,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,phone,neutral
+SENT-00405,What are the daily withdrawal limits on standard business checking accounts?,phone,neutral
+SENT-00665,Please send me the official tax invoices for the first quarter of 2026.,portal,neutral
+SENT-00203,Your dispute process is completely opaque. I haven't received an update in three weeks.,portal,negative
+SENT-00883,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",email,positive
+SENT-01085,I truly appreciate your representative following up personally to confirm my account security.,email,positive
+SENT-00702,Inquiring about the standard processing time for wire transfers to international banks.,email,neutral
+SENT-00134,Your service outage caused significant downtime for our business operations today.,portal,negative
+SENT-00652,Confirming receipt of the dispute documentation I uploaded yesterday.,phone,neutral
+SENT-00514,Please send me the official tax invoices for the first quarter of 2026.,email,neutral
+SENT-00868,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,portal,positive
+SENT-00088,The transaction amount does not match the merchant receipt. I was overcharged by $516.36.,email,negative
+SENT-01122,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,email,positive
+SENT-00409,How do I update my primary billing address and contact phone number on file?,portal,neutral
+SENT-00562,Please send me the official tax invoices for the first quarter of 2026.,phone,neutral
+SENT-00798,What are the daily withdrawal limits on standard business checking accounts?,email,neutral
+SENT-00689,Need instructions on enabling two-factor authentication for my team members.,chat,neutral
+SENT-00488,Could you re-send the monthly account statement for September in PDF format?,chat,neutral
+SENT-00085,Your service outage caused significant downtime for our business operations today.,chat,negative
+SENT-00345,Unacceptable duplicate debit of $284.37. This is the second time your billing system made this mistake.,email,negative
+SENT-00136,Unacceptable duplicate debit of $737.27. This is the second time your billing system made this mistake.,email,negative
+SENT-00152,Your dispute process is completely opaque. I haven't received an update in three weeks.,phone,negative
+SENT-00404,Please send me the official tax invoices for the first quarter of 2026.,chat,neutral
+SENT-01175,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",email,positive
+SENT-00443,Inquiring about the standard processing time for wire transfers to international banks.,portal,neutral
+SENT-01013,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",portal,positive
+SENT-00093,Why was my card billed $80.43 when I explicitly canceled my subscription last month?,phone,negative
+SENT-00794,Confirming receipt of the dispute documentation I uploaded yesterday.,portal,neutral
+SENT-00590,Need instructions on enabling two-factor authentication for my team members.,portal,neutral
+SENT-00662,Could you re-send the monthly account statement for September in PDF format?,phone,neutral
+SENT-00457,Please send me the official tax invoices for the first quarter of 2026.,phone,neutral
+SENT-00403,Need instructions on enabling two-factor authentication for my team members.,portal,neutral
+SENT-00052,Unacceptable duplicate debit of $808.53. This is the second time your billing system made this mistake.,portal,negative
+SENT-00157,Unacceptable duplicate debit of $196.50. This is the second time your billing system made this mistake.,phone,negative
+SENT-00796,What are the daily withdrawal limits on standard business checking accounts?,phone,neutral
+SENT-00515,I would like to verify if transaction TXN-744793 has settled or is still in pending status.,chat,neutral
+SENT-01069,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",phone,positive
+SENT-00154,Terrible customer service. I waited on hold for 45 minutes and was hung up on regarding my disputed charge.,email,negative
+SENT-00579,What are the daily withdrawal limits on standard business checking accounts?,portal,neutral
+SENT-00553,Inquiring about the standard processing time for wire transfers to international banks.,email,neutral
+SENT-00327,The transaction amount does not match the merchant receipt. I was overcharged by $834.43.,chat,negative
+SENT-00043,I was charged twice for transaction TXN-446479 on my statement and nobody has refunded me yet.,phone,negative
+SENT-00835,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,email,positive
+SENT-00313,Why was my card billed $93.85 when I explicitly canceled my subscription last month?,email,negative
+SENT-00056,I demand an immediate reversal of this unauthorized transaction at CloudTech Solutions.,email,negative
+SENT-00392,My card was charged multiple times in rapid succession while I was traveling abroad.,phone,negative
+SENT-00012,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,chat,negative
+SENT-00617,Confirming receipt of the dispute documentation I uploaded yesterday.,email,neutral
+SENT-00233,I demand an immediate reversal of this unauthorized transaction at Urban Retailers.,phone,negative
+SENT-00124,The transaction amount does not match the merchant receipt. I was overcharged by $141.88.,chat,negative
+SENT-00427,Please send me the official tax invoices for the first quarter of 2026.,portal,neutral
+SENT-00948,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,email,positive
+SENT-00874,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,phone,positive
+SENT-01153,The support agent resolved my billing issue in less than five minutes. Very impressed.,phone,positive
+SENT-01029,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,phone,positive
+SENT-00081,I demand an immediate reversal of this unauthorized transaction at Global Air Lines.,email,negative
+SENT-00998,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",phone,positive
+SENT-00664,Confirming receipt of the dispute documentation I uploaded yesterday.,email,neutral
+SENT-00686,What are the daily withdrawal limits on standard business checking accounts?,email,neutral
+SENT-00820,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",portal,positive
+SENT-00807,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",email,positive
+SENT-00610,Could you re-send the monthly account statement for September in PDF format?,email,neutral
+SENT-00098,Your service outage caused significant downtime for our business operations today.,phone,negative
+SENT-00748,Please send me the official tax invoices for the first quarter of 2026.,email,neutral
+SENT-00906,Thank you for the prompt reversal of the disputed charge. Exceptional support!,phone,positive
+SENT-00178,Your service outage caused significant downtime for our business operations today.,email,negative
+SENT-00495,Could you re-send the monthly account statement for September in PDF format?,chat,neutral
+SENT-00779,How do I update my primary billing address and contact phone number on file?,chat,neutral
+SENT-00770,I would like to verify if transaction TXN-226601 has settled or is still in pending status.,phone,neutral
+SENT-00223,Your dispute process is completely opaque. I haven't received an update in three weeks.,portal,negative
+SENT-01185,I truly appreciate your representative following up personally to confirm my account security.,email,positive
+SENT-00410,Could you re-send the monthly account statement for September in PDF format?,chat,neutral
+SENT-00690,Inquiring about the standard processing time for wire transfers to international banks.,chat,neutral
+SENT-00095,The transaction amount does not match the merchant receipt. I was overcharged by $319.98.,chat,negative
+SENT-00699,How do I update my primary billing address and contact phone number on file?,email,neutral
+SENT-01068,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,chat,positive
+SENT-01098,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,email,positive
+SENT-00256,I was charged twice for transaction TXN-282710 on my statement and nobody has refunded me yet.,portal,negative
+SENT-01162,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,portal,positive
+SENT-00797,I would like to verify if transaction TXN-383572 has settled or is still in pending status.,email,neutral
+SENT-00272,The transaction amount does not match the merchant receipt. I was overcharged by $399.11.,email,negative
+SENT-00142,Your dispute process is completely opaque. I haven't received an update in three weeks.,phone,negative
+SENT-00160,My card was charged multiple times in rapid succession while I was traveling abroad.,email,negative
+SENT-00914,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,portal,positive
+SENT-00984,The support agent resolved my billing issue in less than five minutes. Very impressed.,portal,positive
+SENT-00039,I see fraudulent activity on my account for merchant Urban Retailers. Please block and investigate.,portal,negative
+SENT-00981,Thank you for the prompt reversal of the disputed charge. Exceptional support!,portal,positive
+SENT-00863,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,phone,positive
+SENT-00586,I would like to verify if transaction TXN-432061 has settled or is still in pending status.,email,neutral
+SENT-00902,The support agent resolved my billing issue in less than five minutes. Very impressed.,phone,positive
+SENT-00570,Please send me the official tax invoices for the first quarter of 2026.,portal,neutral
+SENT-00524,Confirming receipt of the dispute documentation I uploaded yesterday.,portal,neutral
+SENT-00567,Confirming receipt of the dispute documentation I uploaded yesterday.,email,neutral
+SENT-00943,Thank you for the prompt reversal of the disputed charge. Exceptional support!,portal,positive
+SENT-00023,My card was charged multiple times in rapid succession while I was traveling abroad.,portal,negative
+SENT-01184,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,email,positive
+SENT-00716,Confirming receipt of the dispute documentation I uploaded yesterday.,phone,neutral
+SENT-00228,Terrible customer service. I waited on hold for 45 minutes and was hung up on regarding my disputed charge.,chat,negative
+SENT-00308,I was charged twice for transaction TXN-159653 on my statement and nobody has refunded me yet.,email,negative
+SENT-00007,My card was charged multiple times in rapid succession while I was traveling abroad.,chat,negative
+SENT-00310,Your dispute process is completely opaque. I haven't received an update in three weeks.,portal,negative
+SENT-00139,I see fraudulent activity on my account for merchant Global Air Lines. Please block and investigate.,phone,negative
+SENT-00531,Confirming receipt of the dispute documentation I uploaded yesterday.,chat,neutral
+SENT-01034,The support agent resolved my billing issue in less than five minutes. Very impressed.,chat,positive
+SENT-00930,Thank you for the prompt reversal of the disputed charge. Exceptional support!,chat,positive
+SENT-00292,Unacceptable duplicate debit of $820.75. This is the second time your billing system made this mistake.,portal,negative
+SENT-00036,I demand an immediate reversal of this unauthorized transaction at Enterprise Office Supplies.,chat,negative
+SENT-00855,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,chat,positive
+SENT-00407,What are the daily withdrawal limits on standard business checking accounts?,email,neutral
+SENT-00459,How do I update my primary billing address and contact phone number on file?,chat,neutral
+SENT-00464,I would like to verify if transaction TXN-784607 has settled or is still in pending status.,portal,neutral
+SENT-00369,Your service outage caused significant downtime for our business operations today.,email,negative
+SENT-00261,I see fraudulent activity on my account for merchant Urban Retailers. Please block and investigate.,portal,negative
+SENT-00727,I would like to verify if transaction TXN-865416 has settled or is still in pending status.,email,neutral
+SENT-01189,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,portal,positive
+SENT-00220,Your dispute process is completely opaque. I haven't received an update in three weeks.,phone,negative
+SENT-00559,Could you provide a detailed breakdown of the transaction fees on statement TXN-117538?,phone,neutral
+SENT-00577,How do I update my primary billing address and contact phone number on file?,email,neutral
+SENT-00247,Why was my card billed $932.17 when I explicitly canceled my subscription last month?,phone,negative
+SENT-00624,Could you re-send the monthly account statement for September in PDF format?,chat,neutral
+SENT-00873,Thank you for the prompt reversal of the disputed charge. Exceptional support!,phone,positive
+SENT-00441,Could you re-send the monthly account statement for September in PDF format?,chat,neutral
+SENT-00949,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,portal,positive
+SENT-00423,Confirming receipt of the dispute documentation I uploaded yesterday.,phone,neutral
+SENT-01049,The support agent resolved my billing issue in less than five minutes. Very impressed.,portal,positive
+SENT-00947,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,chat,positive
+SENT-01199,I truly appreciate your representative following up personally to confirm my account security.,portal,positive
+SENT-00323,The transaction amount does not match the merchant receipt. I was overcharged by $410.88.,email,negative
+SENT-00361,Why was my card billed $59.70 when I explicitly canceled my subscription last month?,phone,negative
+SENT-00989,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,chat,positive
+SENT-00615,I would like to verify if transaction TXN-177558 has settled or is still in pending status.,portal,neutral
+SENT-00547,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,phone,neutral
+SENT-00924,Thank you for the prompt reversal of the disputed charge. Exceptional support!,phone,positive
+SENT-00805,Thank you for the prompt reversal of the disputed charge. Exceptional support!,chat,positive
+SENT-00346,I was charged twice for transaction TXN-350021 on my statement and nobody has refunded me yet.,portal,negative
+SENT-00517,Need instructions on enabling two-factor authentication for my team members.,chat,neutral
+SENT-00412,Inquiring about the standard processing time for wire transfers to international banks.,portal,neutral
+SENT-00564,What are the daily withdrawal limits on standard business checking accounts?,chat,neutral
+SENT-01032,Thank you for the prompt reversal of the disputed charge. Exceptional support!,email,positive
+SENT-01134,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,portal,positive
+SENT-00107,I was charged twice for transaction TXN-684482 on my statement and nobody has refunded me yet.,portal,negative
+SENT-00438,Could you provide a detailed breakdown of the transaction fees on statement TXN-711868?,chat,neutral
+SENT-00979,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",portal,positive
+SENT-01191,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,chat,positive
+SENT-01127,I truly appreciate your representative following up personally to confirm my account security.,portal,positive
+SENT-01173,I truly appreciate your representative following up personally to confirm my account security.,chat,positive
+SENT-01106,The support agent resolved my billing issue in less than five minutes. Very impressed.,chat,positive
+SENT-00591,How do I update my primary billing address and contact phone number on file?,phone,neutral
+SENT-00853,The support agent resolved my billing issue in less than five minutes. Very impressed.,portal,positive
+SENT-00109,Your dispute process is completely opaque. I haven't received an update in three weeks.,portal,negative
+SENT-01178,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,phone,positive
+SENT-00983,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",portal,positive
+SENT-00783,How do I update my primary billing address and contact phone number on file?,chat,neutral
+SENT-01099,Thank you for the prompt reversal of the disputed charge. Exceptional support!,email,positive
+SENT-00917,Thank you for the prompt reversal of the disputed charge. Exceptional support!,email,positive
+SENT-01061,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,portal,positive
+SENT-00925,I truly appreciate your representative following up personally to confirm my account security.,chat,positive
+SENT-00673,Could you re-send the monthly account statement for September in PDF format?,email,neutral
+SENT-00934,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",phone,positive
+SENT-00895,Thank you for the prompt reversal of the disputed charge. Exceptional support!,chat,positive
+SENT-00836,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,portal,positive
+SENT-00991,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,email,positive
+SENT-00545,Could you provide a detailed breakdown of the transaction fees on statement TXN-689849?,chat,neutral
+SENT-00237,Your dispute process is completely opaque. I haven't received an update in three weeks.,portal,negative
+SENT-00743,I would like to verify if transaction TXN-257375 has settled or is still in pending status.,email,neutral
+SENT-00104,I see fraudulent activity on my account for merchant Global Air Lines. Please block and investigate.,portal,negative
+SENT-00100,My card was charged multiple times in rapid succession while I was traveling abroad.,phone,negative
+SENT-00532,I would like to verify if transaction TXN-354655 has settled or is still in pending status.,chat,neutral
+SENT-00222,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,phone,negative
+SENT-00080,Hidden fees on my invoice! I was promised a monthly rate of $50 but was billed $925.54.,chat,negative
+SENT-01043,The support agent resolved my billing issue in less than five minutes. Very impressed.,phone,positive
+SENT-00793,Inquiring about the standard processing time for wire transfers to international banks.,chat,neutral
+SENT-00850,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",phone,positive
+SENT-00042,Unacceptable duplicate debit of $605.08. This is the second time your billing system made this mistake.,email,negative
+SENT-00542,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,portal,neutral
+SENT-01010,I truly appreciate your representative following up personally to confirm my account security.,phone,positive
+SENT-00632,What are the daily withdrawal limits on standard business checking accounts?,chat,neutral
+SENT-00060,Unacceptable duplicate debit of $245.21. This is the second time your billing system made this mistake.,email,negative
+SENT-00726,I would like to verify if transaction TXN-714923 has settled or is still in pending status.,phone,neutral
+SENT-00378,Terrible customer service. I waited on hold for 45 minutes and was hung up on regarding my disputed charge.,chat,negative
+SENT-00426,What are the daily withdrawal limits on standard business checking accounts?,chat,neutral
+SENT-00762,How do I update my primary billing address and contact phone number on file?,chat,neutral
+SENT-00903,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,chat,positive
+SENT-01114,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",phone,positive
+SENT-00063,Your service outage caused significant downtime for our business operations today.,portal,negative
+SENT-00655,Need instructions on enabling two-factor authentication for my team members.,portal,neutral
+SENT-00871,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",portal,positive
+SENT-00082,I demand an immediate reversal of this unauthorized transaction at Global Air Lines.,chat,negative
+SENT-00504,What are the daily withdrawal limits on standard business checking accounts?,email,neutral
+SENT-00672,What are the daily withdrawal limits on standard business checking accounts?,phone,neutral
+SENT-01082,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",phone,positive
+SENT-00014,Your service outage caused significant downtime for our business operations today.,chat,negative
+SENT-00073,Your service outage caused significant downtime for our business operations today.,phone,negative
+SENT-00736,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,email,neutral
+SENT-00621,I would like to verify if transaction TXN-211090 has settled or is still in pending status.,email,neutral
+SENT-01051,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",email,positive
+SENT-00857,Thank you for the prompt reversal of the disputed charge. Exceptional support!,chat,positive
+SENT-00051,Hidden fees on my invoice! I was promised a monthly rate of $50 but was billed $62.30.,email,negative
+SENT-00263,I demand an immediate reversal of this unauthorized transaction at Prime Stream Media.,phone,negative
+SENT-00605,Could you re-send the monthly account statement for September in PDF format?,portal,neutral
+SENT-00911,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",portal,positive
+SENT-01025,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",phone,positive
+SENT-01065,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",email,positive
+SENT-00879,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",phone,positive
+SENT-00674,Inquiring about the standard processing time for wire transfers to international banks.,email,neutral
+SENT-00398,I was charged twice for transaction TXN-772612 on my statement and nobody has refunded me yet.,chat,negative
+SENT-00658,Inquiring about the standard processing time for wire transfers to international banks.,email,neutral
+SENT-00585,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,chat,neutral
+SENT-00815,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,chat,positive
+SENT-01042,Thank you for the prompt reversal of the disputed charge. Exceptional support!,portal,positive
+SENT-01003,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",chat,positive
+SENT-00498,How do I update my primary billing address and contact phone number on file?,email,neutral
+SENT-01139,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,phone,positive
+SENT-00207,I was charged twice for transaction TXN-232378 on my statement and nobody has refunded me yet.,phone,negative
+SENT-01018,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,phone,positive
+SENT-00183,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,email,negative
+SENT-00133,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,chat,negative
+SENT-00045,Terrible customer service. I waited on hold for 45 minutes and was hung up on regarding my disputed charge.,chat,negative
+SENT-00069,The transaction amount does not match the merchant receipt. I was overcharged by $892.90.,phone,negative
+SENT-00839,I truly appreciate your representative following up personally to confirm my account security.,phone,positive
+SENT-00536,How do I update my primary billing address and contact phone number on file?,chat,neutral
+SENT-00099,Your dispute process is completely opaque. I haven't received an update in three weeks.,portal,negative
+SENT-00114,I demand an immediate reversal of this unauthorized transaction at FastDelivery Logistics.,chat,negative
+SENT-00330,Your dispute process is completely opaque. I haven't received an update in three weeks.,chat,negative
+SENT-01045,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",chat,positive
+SENT-00420,What are the daily withdrawal limits on standard business checking accounts?,email,neutral
+SENT-00972,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",portal,positive
+SENT-00290,I was charged twice for transaction TXN-621546 on my statement and nobody has refunded me yet.,chat,negative
+SENT-00628,Need instructions on enabling two-factor authentication for my team members.,portal,neutral
+SENT-01111,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,email,positive
+SENT-00565,Please send me the official tax invoices for the first quarter of 2026.,email,neutral
+SENT-00785,What are the daily withdrawal limits on standard business checking accounts?,portal,neutral
+SENT-00510,Confirming receipt of the dispute documentation I uploaded yesterday.,email,neutral
+SENT-00700,How do I update my primary billing address and contact phone number on file?,phone,neutral
+SENT-00537,Need instructions on enabling two-factor authentication for my team members.,phone,neutral
+SENT-00878,I truly appreciate your representative following up personally to confirm my account security.,portal,positive
+SENT-00397,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,email,negative
+SENT-01037,The support agent resolved my billing issue in less than five minutes. Very impressed.,chat,positive
+SENT-00675,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,chat,neutral
+SENT-00065,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,chat,negative
+SENT-00739,What are the daily withdrawal limits on standard business checking accounts?,email,neutral
+SENT-00329,My card was charged multiple times in rapid succession while I was traveling abroad.,chat,negative
+SENT-00245,Your dispute process is completely opaque. I haven't received an update in three weeks.,email,negative
+SENT-00636,Inquiring about the standard processing time for wire transfers to international banks.,portal,neutral
+SENT-00854,I truly appreciate your representative following up personally to confirm my account security.,portal,positive
+SENT-00373,I see fraudulent activity on my account for merchant FastDelivery Logistics. Please block and investigate.,portal,negative
+SENT-01187,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",chat,positive
+SENT-00020,Terrible customer service. I waited on hold for 45 minutes and was hung up on regarding my disputed charge.,chat,negative
+SENT-00190,The transaction amount does not match the merchant receipt. I was overcharged by $725.59.,phone,negative
+SENT-00752,Could you re-send the monthly account statement for September in PDF format?,chat,neutral
+SENT-00389,I demand an immediate reversal of this unauthorized transaction at Prime Stream Media.,chat,negative
+SENT-00519,Confirming receipt of the dispute documentation I uploaded yesterday.,chat,neutral
+SENT-00966,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,portal,positive
+SENT-01009,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,chat,positive
+SENT-01090,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,email,positive
+SENT-00465,Please send me the official tax invoices for the first quarter of 2026.,phone,neutral
+SENT-00376,Unacceptable duplicate debit of $702.86. This is the second time your billing system made this mistake.,portal,negative
+SENT-00555,I would like to verify if transaction TXN-244170 has settled or is still in pending status.,email,neutral
+SENT-00270,I see fraudulent activity on my account for merchant SaaS Software Corp. Please block and investigate.,chat,negative
+SENT-00840,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,email,positive
+SENT-00303,The transaction amount does not match the merchant receipt. I was overcharged by $180.63.,portal,negative
+SENT-00461,Please send me the official tax invoices for the first quarter of 2026.,portal,neutral
+SENT-00929,Thank you for the prompt reversal of the disputed charge. Exceptional support!,phone,positive
+SENT-00544,Please send me the official tax invoices for the first quarter of 2026.,portal,neutral
+SENT-00071,Your service outage caused significant downtime for our business operations today.,chat,negative
+SENT-00165,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,email,negative
+SENT-00568,Inquiring about the standard processing time for wire transfers to international banks.,portal,neutral
+SENT-01081,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,portal,positive
+SENT-00852,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,chat,positive
+SENT-00282,Why was my card billed $361.00 when I explicitly canceled my subscription last month?,email,negative
+SENT-00480,How do I update my primary billing address and contact phone number on file?,portal,neutral
+SENT-01096,The support agent resolved my billing issue in less than five minutes. Very impressed.,chat,positive
+SENT-01167,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,email,positive
+SENT-00357,I demand an immediate reversal of this unauthorized transaction at Urban Retailers.,email,negative
+SENT-01006,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,phone,positive
+SENT-00192,Unacceptable duplicate debit of $924.89. This is the second time your billing system made this mistake.,chat,negative
+SENT-00581,Need instructions on enabling two-factor authentication for my team members.,portal,neutral
+SENT-00195,Unacceptable duplicate debit of $793.05. This is the second time your billing system made this mistake.,phone,negative
+SENT-00502,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,chat,neutral
+SENT-01020,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,email,positive
+SENT-01159,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,email,positive
+SENT-00302,Unacceptable duplicate debit of $254.33. This is the second time your billing system made this mistake.,chat,negative
+SENT-00573,What are the daily withdrawal limits on standard business checking accounts?,chat,neutral
+SENT-00449,Please send me the official tax invoices for the first quarter of 2026.,phone,neutral
+SENT-00724,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,email,neutral
+SENT-00497,How do I update my primary billing address and contact phone number on file?,portal,neutral
+SENT-01194,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,chat,positive
+SENT-01000,The support agent resolved my billing issue in less than five minutes. Very impressed.,portal,positive
+SENT-00138,The transaction amount does not match the merchant receipt. I was overcharged by $79.47.,email,negative
+SENT-00742,Please send me the official tax invoices for the first quarter of 2026.,phone,neutral
+SENT-00367,Your dispute process is completely opaque. I haven't received an update in three weeks.,portal,negative
+SENT-01135,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,portal,positive
+SENT-00706,How do I update my primary billing address and contact phone number on file?,email,neutral
+SENT-01091,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,email,positive
+SENT-00198,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,email,negative
+SENT-00751,Could you provide a detailed breakdown of the transaction fees on statement TXN-486839?,phone,neutral
+SENT-00450,Please send me the official tax invoices for the first quarter of 2026.,chat,neutral
+SENT-00825,The support agent resolved my billing issue in less than five minutes. Very impressed.,portal,positive
+SENT-00356,The transaction amount does not match the merchant receipt. I was overcharged by $932.07.,chat,negative
+SENT-01156,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,phone,positive
+SENT-00913,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,chat,positive
+SENT-00808,Thank you for the prompt reversal of the disputed charge. Exceptional support!,chat,positive
+SENT-00572,Confirming receipt of the dispute documentation I uploaded yesterday.,chat,neutral
+SENT-00325,Your dispute process is completely opaque. I haven't received an update in three weeks.,chat,negative
+SENT-00239,I was charged twice for transaction TXN-749641 on my statement and nobody has refunded me yet.,phone,negative
+SENT-00500,Need instructions on enabling two-factor authentication for my team members.,portal,neutral
+SENT-00129,The transaction amount does not match the merchant receipt. I was overcharged by $745.45.,email,negative
+SENT-00110,Hidden fees on my invoice! I was promised a monthly rate of $50 but was billed $853.89.,portal,negative
+SENT-01019,I truly appreciate your representative following up personally to confirm my account security.,email,positive
+SENT-00550,Need instructions on enabling two-factor authentication for my team members.,portal,neutral
+SENT-00719,How do I update my primary billing address and contact phone number on file?,email,neutral
+SENT-00158,I demand an immediate reversal of this unauthorized transaction at Enterprise Office Supplies.,chat,negative
+SENT-00661,Need instructions on enabling two-factor authentication for my team members.,email,neutral
+SENT-00365,Unacceptable duplicate debit of $578.29. This is the second time your billing system made this mistake.,phone,negative
+SENT-01188,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,phone,positive
+SENT-00062,Your service outage caused significant downtime for our business operations today.,chat,negative
+SENT-00641,Confirming receipt of the dispute documentation I uploaded yesterday.,phone,neutral
+SENT-00778,I would like to verify if transaction TXN-996114 has settled or is still in pending status.,chat,neutral
+SENT-00347,Unacceptable duplicate debit of $797.30. This is the second time your billing system made this mistake.,email,negative
+SENT-01128,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,email,positive
+SENT-00703,Could you re-send the monthly account statement for September in PDF format?,portal,neutral
+SENT-00094,The transaction amount does not match the merchant receipt. I was overcharged by $131.52.,phone,negative
+SENT-01070,I truly appreciate your representative following up personally to confirm my account security.,email,positive
+SENT-00162,Why was my card billed $917.74 when I explicitly canceled my subscription last month?,portal,negative
+SENT-00992,The support agent resolved my billing issue in less than five minutes. Very impressed.,email,positive
+SENT-00092,Your service outage caused significant downtime for our business operations today.,chat,negative
+SENT-00982,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,email,positive
+SENT-01023,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,phone,positive
+SENT-00159,Your service outage caused significant downtime for our business operations today.,phone,negative
+SENT-00611,Need instructions on enabling two-factor authentication for my team members.,portal,neutral
+SENT-01087,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,chat,positive
+SENT-00487,How do I update my primary billing address and contact phone number on file?,phone,neutral
+SENT-00708,I would like to verify if transaction TXN-429780 has settled or is still in pending status.,chat,neutral
+SENT-00803,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,chat,positive
+SENT-00596,Inquiring about the standard processing time for wire transfers to international banks.,phone,neutral
+SENT-00968,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",chat,positive
+SENT-00010,Hidden fees on my invoice! I was promised a monthly rate of $50 but was billed $924.86.,email,negative
+SENT-01192,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",email,positive
+SENT-01071,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",email,positive
+SENT-00406,I would like to verify if transaction TXN-237118 has settled or is still in pending status.,email,neutral
+SENT-00123,I see fraudulent activity on my account for merchant CloudTech Solutions. Please block and investigate.,email,negative
+SENT-00599,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,phone,neutral
+SENT-00283,I was charged twice for transaction TXN-263137 on my statement and nobody has refunded me yet.,email,negative
+SENT-01136,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,portal,positive
+SENT-00172,My card was charged multiple times in rapid succession while I was traveling abroad.,chat,negative
+SENT-00016,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,chat,negative
+SENT-00333,Your service outage caused significant downtime for our business operations today.,portal,negative
+SENT-01028,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",email,positive
+SENT-01163,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",phone,positive
+SENT-00242,Your service outage caused significant downtime for our business operations today.,chat,negative
+SENT-00116,I see fraudulent activity on my account for merchant Global Air Lines. Please block and investigate.,portal,negative
+SENT-00224,Unacceptable duplicate debit of $371.58. This is the second time your billing system made this mistake.,phone,negative
+SENT-00683,Please send me the official tax invoices for the first quarter of 2026.,portal,neutral
+SENT-00885,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,phone,positive
+SENT-01137,I truly appreciate your representative following up personally to confirm my account security.,portal,positive
+SENT-00909,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,portal,positive
+SENT-00370,The transaction amount does not match the merchant receipt. I was overcharged by $394.81.,chat,negative
+SENT-00985,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,email,positive
+SENT-00306,Your dispute process is completely opaque. I haven't received an update in three weeks.,email,negative
+SENT-00654,Could you re-send the monthly account statement for September in PDF format?,email,neutral
+SENT-00493,Confirming receipt of the dispute documentation I uploaded yesterday.,email,neutral
+SENT-00260,Your dispute process is completely opaque. I haven't received an update in three weeks.,portal,negative
+SENT-00126,Why was my card billed $726.75 when I explicitly canceled my subscription last month?,phone,negative
+SENT-00980,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,phone,positive
+SENT-00563,What are the daily withdrawal limits on standard business checking accounts?,email,neutral
+SENT-00960,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,portal,positive
+SENT-00763,I would like to verify if transaction TXN-178465 has settled or is still in pending status.,email,neutral
+SENT-00044,The transaction amount does not match the merchant receipt. I was overcharged by $215.31.,portal,negative
+SENT-00746,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,phone,neutral
+SENT-00645,What are the daily withdrawal limits on standard business checking accounts?,chat,neutral
+SENT-01064,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",email,positive
+SENT-00331,Hidden fees on my invoice! I was promised a monthly rate of $50 but was billed $304.35.,chat,negative
+SENT-00959,The support agent resolved my billing issue in less than five minutes. Very impressed.,email,positive
+SENT-00320,Your service outage caused significant downtime for our business operations today.,chat,negative
+SENT-00698,I would like to verify if transaction TXN-827744 has settled or is still in pending status.,portal,neutral
+SENT-00399,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,portal,negative
+SENT-00485,Could you provide a detailed breakdown of the transaction fees on statement TXN-800224?,portal,neutral
+SENT-00214,My card was charged multiple times in rapid succession while I was traveling abroad.,email,negative
+SENT-00682,What are the daily withdrawal limits on standard business checking accounts?,portal,neutral
+SENT-00534,What are the daily withdrawal limits on standard business checking accounts?,chat,neutral
+SENT-00097,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,email,negative
+SENT-00990,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",portal,positive
+SENT-00753,Need instructions on enabling two-factor authentication for my team members.,portal,neutral
+SENT-00472,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,portal,neutral
+SENT-00204,Terrible customer service. I waited on hold for 45 minutes and was hung up on regarding my disputed charge.,phone,negative
+SENT-00035,Unacceptable duplicate debit of $469.40. This is the second time your billing system made this mistake.,chat,negative
+SENT-00756,Please send me the official tax invoices for the first quarter of 2026.,email,neutral
+SENT-00254,I demand an immediate reversal of this unauthorized transaction at CloudTech Solutions.,chat,negative
+SENT-00454,I would like to verify if transaction TXN-958130 has settled or is still in pending status.,chat,neutral
+SENT-00790,Inquiring about the standard processing time for wire transfers to international banks.,chat,neutral
+SENT-00395,Hidden fees on my invoice! I was promised a monthly rate of $50 but was billed $172.67.,chat,negative
+SENT-00255,I was charged twice for transaction TXN-475644 on my statement and nobody has refunded me yet.,phone,negative
+SENT-00732,Inquiring about the standard processing time for wire transfers to international banks.,phone,neutral
+SENT-00787,I would like to verify if transaction TXN-620226 has settled or is still in pending status.,portal,neutral
+SENT-00125,I was charged twice for transaction TXN-372793 on my statement and nobody has refunded me yet.,portal,negative
+SENT-00013,Your service outage caused significant downtime for our business operations today.,portal,negative
+SENT-00849,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",phone,positive
+SENT-00391,Hidden fees on my invoice! I was promised a monthly rate of $50 but was billed $299.36.,phone,negative
+SENT-00837,Thank you for the prompt reversal of the disputed charge. Exceptional support!,portal,positive
+SENT-01036,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,portal,positive
+SENT-00862,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,email,positive
+SENT-00918,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",email,positive
+SENT-00197,Terrible customer service. I waited on hold for 45 minutes and was hung up on regarding my disputed charge.,chat,negative
+SENT-00186,The transaction amount does not match the merchant receipt. I was overcharged by $775.68.,email,negative
+SENT-00482,I would like to verify if transaction TXN-346961 has settled or is still in pending status.,phone,neutral
+SENT-01060,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,portal,positive
+SENT-00074,I was charged twice for transaction TXN-103717 on my statement and nobody has refunded me yet.,phone,negative
+SENT-00402,Need instructions on enabling two-factor authentication for my team members.,chat,neutral
+SENT-00795,What are the daily withdrawal limits on standard business checking accounts?,portal,neutral
+SENT-00273,Your service outage caused significant downtime for our business operations today.,chat,negative
+SENT-00058,Hidden fees on my invoice! I was promised a monthly rate of $50 but was billed $511.60.,email,negative
+SENT-00150,Your dispute process is completely opaque. I haven't received an update in three weeks.,chat,negative
+SENT-00975,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,email,positive
+SENT-00769,Inquiring about the standard processing time for wire transfers to international banks.,phone,neutral
+SENT-01172,I truly appreciate your representative following up personally to confirm my account security.,chat,positive
+SENT-00083,Your service outage caused significant downtime for our business operations today.,portal,negative
+SENT-00339,Why was my card billed $402.93 when I explicitly canceled my subscription last month?,phone,negative
+SENT-00033,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,phone,negative
+SENT-00811,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,phone,positive
+SENT-00714,Need instructions on enabling two-factor authentication for my team members.,chat,neutral
+SENT-00475,Inquiring about the standard processing time for wire transfers to international banks.,phone,neutral
+SENT-01040,Thank you for the prompt reversal of the disputed charge. Exceptional support!,portal,positive
+SENT-01022,I truly appreciate your representative following up personally to confirm my account security.,email,positive
+SENT-01021,I truly appreciate your representative following up personally to confirm my account security.,portal,positive
+SENT-00639,Could you provide a detailed breakdown of the transaction fees on statement TXN-838968?,chat,neutral
+SENT-00861,I truly appreciate your representative following up personally to confirm my account security.,phone,positive
+SENT-00701,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,chat,neutral
+SENT-00445,Could you provide a detailed breakdown of the transaction fees on statement TXN-840058?,chat,neutral
+SENT-01011,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,chat,positive
+SENT-00031,Hidden fees on my invoice! I was promised a monthly rate of $50 but was billed $828.93.,chat,negative
+SENT-00309,The transaction amount does not match the merchant receipt. I was overcharged by $99.43.,portal,negative
+SENT-00185,I demand an immediate reversal of this unauthorized transaction at Urban Retailers.,phone,negative
+SENT-00477,Could you re-send the monthly account statement for September in PDF format?,chat,neutral
+SENT-00017,Your dispute process is completely opaque. I haven't received an update in three weeks.,chat,negative
+SENT-00898,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",portal,positive
+SENT-01150,I truly appreciate your representative following up personally to confirm my account security.,chat,positive
+SENT-00552,Inquiring about the standard processing time for wire transfers to international banks.,portal,neutral
+SENT-00578,How do I update my primary billing address and contact phone number on file?,email,neutral
+SENT-00210,Your dispute process is completely opaque. I haven't received an update in three weeks.,portal,negative
+SENT-00381,My card was charged multiple times in rapid succession while I was traveling abroad.,phone,negative
+SENT-00046,Unacceptable duplicate debit of $631.15. This is the second time your billing system made this mistake.,portal,negative
+SENT-00102,Terrible customer service. I waited on hold for 45 minutes and was hung up on regarding my disputed charge.,email,negative
+SENT-00312,Hidden fees on my invoice! I was promised a monthly rate of $50 but was billed $910.47.,email,negative
+SENT-00040,Unacceptable duplicate debit of $225.09. This is the second time your billing system made this mistake.,email,negative
+SENT-00657,Need instructions on enabling two-factor authentication for my team members.,portal,neutral
+SENT-00385,Your dispute process is completely opaque. I haven't received an update in three weeks.,email,negative
+SENT-01083,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",chat,positive
+SENT-01112,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",chat,positive
+SENT-00928,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,email,positive
+SENT-00933,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",phone,positive
+SENT-00227,Your service outage caused significant downtime for our business operations today.,phone,negative
+SENT-00594,I would like to verify if transaction TXN-917018 has settled or is still in pending status.,chat,neutral
+SENT-01088,Thank you for the prompt reversal of the disputed charge. Exceptional support!,portal,positive
+SENT-00374,Why was my card billed $430.08 when I explicitly canceled my subscription last month?,chat,negative
+SENT-00141,I demand an immediate reversal of this unauthorized transaction at Fintech Payment Gateway.,portal,negative
+SENT-00386,Unacceptable duplicate debit of $387.28. This is the second time your billing system made this mistake.,portal,negative
+SENT-00846,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",phone,positive
+SENT-00551,Inquiring about the standard processing time for wire transfers to international banks.,chat,neutral
+SENT-00584,Please send me the official tax invoices for the first quarter of 2026.,email,neutral
+SENT-00557,What are the daily withdrawal limits on standard business checking accounts?,portal,neutral
+SENT-01059,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,email,positive
+SENT-00491,Confirming receipt of the dispute documentation I uploaded yesterday.,chat,neutral
+SENT-00865,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,chat,positive
+SENT-01168,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,email,positive
+SENT-00539,Need instructions on enabling two-factor authentication for my team members.,chat,neutral
+SENT-00452,Confirming receipt of the dispute documentation I uploaded yesterday.,phone,neutral
+SENT-00775,How do I update my primary billing address and contact phone number on file?,phone,neutral
+SENT-01129,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,portal,positive
+SENT-00335,Your service outage caused significant downtime for our business operations today.,email,negative
+SENT-00512,Confirming receipt of the dispute documentation I uploaded yesterday.,chat,neutral
+SENT-00809,Thank you for the prompt reversal of the disputed charge. Exceptional support!,email,positive
+SENT-00896,Thank you for the prompt reversal of the disputed charge. Exceptional support!,phone,positive
+SENT-01193,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,portal,positive
+SENT-00387,I see fraudulent activity on my account for merchant FastDelivery Logistics. Please block and investigate.,phone,negative
+SENT-00766,What are the daily withdrawal limits on standard business checking accounts?,phone,neutral
+SENT-00015,Why was my card billed $210.89 when I explicitly canceled my subscription last month?,email,negative
+SENT-00474,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,phone,neutral
+SENT-00600,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,chat,neutral
+SENT-00882,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",email,positive
+SENT-00019,I was charged twice for transaction TXN-944151 on my statement and nobody has refunded me yet.,email,negative
+SENT-00614,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,portal,neutral
+SENT-00978,Thank you for the prompt reversal of the disputed charge. Exceptional support!,portal,positive
+SENT-01008,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,phone,positive
+SENT-00018,The transaction amount does not match the merchant receipt. I was overcharged by $803.07.,chat,negative
+SENT-00961,The support agent resolved my billing issue in less than five minutes. Very impressed.,email,positive
+SENT-00588,What are the daily withdrawal limits on standard business checking accounts?,email,neutral
+SENT-01195,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",chat,positive
+SENT-00280,Unacceptable duplicate debit of $707.81. This is the second time your billing system made this mistake.,email,negative
+SENT-01072,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,phone,positive
+SENT-00001,The transaction amount does not match the merchant receipt. I was overcharged by $38.39.,chat,negative
+SENT-00022,Your service outage caused significant downtime for our business operations today.,phone,negative
+SENT-00622,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,chat,neutral
+SENT-01131,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,email,positive
+SENT-00533,What are the daily withdrawal limits on standard business checking accounts?,portal,neutral
+SENT-00845,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",email,positive
+SENT-00750,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,portal,neutral
+SENT-00631,Could you provide a detailed breakdown of the transaction fees on statement TXN-949541?,email,neutral
+SENT-00905,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,chat,positive
+SENT-00184,Your dispute process is completely opaque. I haven't received an update in three weeks.,email,negative
+SENT-00466,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,email,neutral
+SENT-00987,Thank you for the prompt reversal of the disputed charge. Exceptional support!,phone,positive
+SENT-00712,Confirming receipt of the dispute documentation I uploaded yesterday.,chat,neutral
+SENT-00635,Please send me the official tax invoices for the first quarter of 2026.,chat,neutral
+SENT-01094,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",phone,positive
+SENT-01073,The support agent resolved my billing issue in less than five minutes. Very impressed.,portal,positive
+SENT-00891,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,email,positive
+SENT-00936,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,phone,positive
+SENT-00363,I see fraudulent activity on my account for merchant Urban Retailers. Please block and investigate.,portal,negative
+SENT-01105,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",chat,positive
+SENT-00277,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,email,negative
+SENT-01158,I truly appreciate your representative following up personally to confirm my account security.,email,positive
+SENT-00558,Need instructions on enabling two-factor authentication for my team members.,portal,neutral
+SENT-01108,The support agent resolved my billing issue in less than five minutes. Very impressed.,portal,positive
+SENT-00957,The support agent resolved my billing issue in less than five minutes. Very impressed.,portal,positive
+SENT-00976,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,portal,positive
+SENT-00667,How do I update my primary billing address and contact phone number on file?,chat,neutral
+SENT-00731,Could you provide a detailed breakdown of the transaction fees on statement TXN-842287?,email,neutral
+SENT-00072,The transaction amount does not match the merchant receipt. I was overcharged by $812.47.,portal,negative
+SENT-00059,I demand an immediate reversal of this unauthorized transaction at Metro Transit.,portal,negative
+SENT-00350,I demand an immediate reversal of this unauthorized transaction at Enterprise Office Supplies.,phone,negative
+SENT-01079,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",chat,positive
+SENT-00269,The transaction amount does not match the merchant receipt. I was overcharged by $77.77.,email,negative
+SENT-00259,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,phone,negative
+SENT-00908,Thank you for the prompt reversal of the disputed charge. Exceptional support!,chat,positive
+SENT-00582,I would like to verify if transaction TXN-294760 has settled or is still in pending status.,portal,neutral
+SENT-00507,What are the daily withdrawal limits on standard business checking accounts?,portal,neutral
+SENT-00470,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,phone,neutral
+SENT-00634,What are the daily withdrawal limits on standard business checking accounts?,portal,neutral
+SENT-00799,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,phone,neutral
+SENT-00173,Your service outage caused significant downtime for our business operations today.,email,negative
+SENT-00319,Why was my card billed $559.86 when I explicitly canceled my subscription last month?,phone,negative
+SENT-00538,Could you provide a detailed breakdown of the transaction fees on statement TXN-322096?,email,neutral
+SENT-00213,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,chat,negative
+SENT-00171,Hidden fees on my invoice! I was promised a monthly rate of $50 but was billed $161.36.,portal,negative
+SENT-01074,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,chat,positive
+SENT-01144,The support agent resolved my billing issue in less than five minutes. Very impressed.,portal,positive
+SENT-00054,I demand an immediate reversal of this unauthorized transaction at Global Air Lines.,phone,negative
+SENT-00111,Your service outage caused significant downtime for our business operations today.,portal,negative
+SENT-01124,The support agent resolved my billing issue in less than five minutes. Very impressed.,chat,positive
+SENT-00970,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",portal,positive
+SENT-00131,Terrible customer service. I waited on hold for 45 minutes and was hung up on regarding my disputed charge.,chat,negative
+SENT-00196,Hidden fees on my invoice! I was promised a monthly rate of $50 but was billed $270.65.,portal,negative
+SENT-00211,The transaction amount does not match the merchant receipt. I was overcharged by $811.40.,portal,negative
+SENT-00814,The support agent resolved my billing issue in less than five minutes. Very impressed.,email,positive
+SENT-00342,I demand an immediate reversal of this unauthorized transaction at Urban Retailers.,chat,negative
+SENT-00432,I would like to verify if transaction TXN-746447 has settled or is still in pending status.,phone,neutral
+SENT-00164,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,chat,negative
+SENT-00516,Please send me the official tax invoices for the first quarter of 2026.,email,neutral
+SENT-00481,What are the daily withdrawal limits on standard business checking accounts?,phone,neutral
+SENT-00257,Hidden fees on my invoice! I was promised a monthly rate of $50 but was billed $712.20.,portal,negative
+SENT-00048,I was charged twice for transaction TXN-522179 on my statement and nobody has refunded me yet.,chat,negative
+SENT-00377,Hidden fees on my invoice! I was promised a monthly rate of $50 but was billed $259.76.,portal,negative
+SENT-00343,My card was charged multiple times in rapid succession while I was traveling abroad.,email,negative
+SENT-00848,The support agent resolved my billing issue in less than five minutes. Very impressed.,portal,positive
+SENT-00923,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",phone,positive
+SENT-01067,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,chat,positive
+SENT-00744,Confirming receipt of the dispute documentation I uploaded yesterday.,chat,neutral
+SENT-00912,"Great service! The explanation of the dispute investigation was clear, concise, and helpful.",chat,positive
+SENT-00556,Inquiring about the standard processing time for wire transfers to international banks.,portal,neutral
+SENT-00810,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,chat,positive
+SENT-00548,Please send me the official tax invoices for the first quarter of 2026.,chat,neutral
+SENT-00597,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,email,neutral
+SENT-00649,Inquiring about the standard processing time for wire transfers to international banks.,portal,neutral
+SENT-00643,Need instructions on enabling two-factor authentication for my team members.,portal,neutral
+SENT-00468,Inquiring about the standard processing time for wire transfers to international banks.,email,neutral
+SENT-00704,What are the daily withdrawal limits on standard business checking accounts?,chat,neutral
+SENT-00332,Why was my card billed $900.57 when I explicitly canceled my subscription last month?,portal,negative
+SENT-00163,Unacceptable duplicate debit of $76.10. This is the second time your billing system made this mistake.,email,negative
+SENT-00147,Your service outage caused significant downtime for our business operations today.,email,negative
+SENT-00829,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,portal,positive
+SENT-01171,I truly appreciate your representative following up personally to confirm my account security.,chat,positive
+SENT-00864,Quickest resolution I have ever experienced with a corporate dispute. Keep up the great work!,email,positive
+SENT-00691,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,phone,neutral
+SENT-00344,I was charged twice for transaction TXN-368355 on my statement and nobody has refunded me yet.,portal,negative
+SENT-00297,I see fraudulent activity on my account for merchant Global Air Lines. Please block and investigate.,portal,negative
+SENT-00950,I truly appreciate your representative following up personally to confirm my account security.,phone,positive
+SENT-00587,How do I update my primary billing address and contact phone number on file?,portal,neutral
+SENT-00781,Inquiring about the standard processing time for wire transfers to international banks.,phone,neutral
+SENT-00161,I was charged twice for transaction TXN-701949 on my statement and nobody has refunded me yet.,portal,negative
+SENT-00916,"Customer service was professional, empathetic, and resolved my inquiry on the first contact.",portal,positive
+SENT-00999,The support agent resolved my billing issue in less than five minutes. Very impressed.,email,positive
+SENT-01046,The new transaction alerts helped me spot an erroneous charge immediately. Excellent feature.,email,positive
+SENT-00666,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,portal,neutral
+SENT-00728,Please send me the official tax invoices for the first quarter of 2026.,email,neutral
+SENT-00583,How do I update my primary billing address and contact phone number on file?,phone,neutral
+SENT-00358,Your service outage caused significant downtime for our business operations today.,email,negative
+SENT-01103,I truly appreciate your representative following up personally to confirm my account security.,phone,positive
+SENT-01180,Kudos to the CX team for resolving my complaint ahead of the promised SLA deadline.,chat,positive
+SENT-01182,Thank you for the prompt reversal of the disputed charge. Exceptional support!,portal,positive
+SENT-00408,Can you clarify the eligibility requirements for upgrading to the Gold customer tier?,chat,neutral
+SENT-00720,Could you provide a detailed breakdown of the transaction fees on statement TXN-374921?,email,neutral
+SENT-00249,Unacceptable duplicate debit of $213.32. This is the second time your billing system made this mistake.,email,negative
+SENT-00844,I truly appreciate your representative following up personally to confirm my account security.,chat,positive
+SENT-00041,Extremely dissatisfied with how my complaint was handled. I am strongly considering closing my account.,email,negative
+SENT-00705,I would like to verify if transaction TXN-746002 has settled or is still in pending status.,chat,neutral
+SENT-00528,I would like to verify if transaction TXN-292811 has settled or is still in pending status.,portal,neutral
+SENT-01142,I truly appreciate your representative following up personally to confirm my account security.,phone,positive
+SENT-01148,Thank you for the prompt reversal of the disputed charge. Exceptional support!,portal,positive
+SENT-00738,Could you provide a detailed breakdown of the transaction fees on statement TXN-623879?,chat,neutral
+SENT-00740,Could you re-send the monthly account statement for September in PDF format?,chat,neutral
